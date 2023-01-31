@@ -29,7 +29,7 @@ function time()
     if (date.getDay() == 4) week = "星期四" // Thu.
     if (date.getDay() == 5) week = "星期五" // Fri.
     if (date.getDay() == 6) week = "星期六" // Sat.
-    document.getElementById("time").innerHTML = yyyy + "-" + MM + "-" + dd + " " + hh + ":" + mm + ":" + ss + " " + week;
+    document.getElementById("display-date-and-time").innerHTML = yyyy + "-" + MM + "-" + dd + " " + hh + ":" + mm + ":" + ss + " " + week;
 }
 
 function xtime(i)
