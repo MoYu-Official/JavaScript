@@ -1,6 +1,6 @@
 /*
 ##################################################
-# Judge Mobile Device or PC
+# JavaScript Judge Mobile Device or PC
 # Author : GitHub@MoYu-Official
 # Website : https://MoYu-Official.GitHub.io/JavaScript/
 # Version : 1.2_2022-2-18
